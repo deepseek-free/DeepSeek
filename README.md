@@ -1,6 +1,6 @@
 # DeepSeek 满血版使用指南：支持 DeepSeek R1、V3 和 ChatGPT 4o、o1、o3~ 【2025年2月更新】
 
-> 更新日期：2025年02月25日       
+> 更新日期：2025年02月25日      
 
 能轻松使用 **DeepSeek R1 满血版**，**稳定可用**，**支持 DeepSeek R1、V3 和 ChatGPT 4o、o1、o3 及更多功能**。   
 本指南提供全面的 **DeepSeek 满血版使用指南**，帮助您稳定使用上 DeepSeek 和 ChatGPT。
@@ -54,7 +54,7 @@
 
 ## 如何使用 DeepSeek R1 满血版？
 
-1. **选择网站**：访问推荐的网站（如 **一下AI ([www.yixiaai.com](https://www.yixiaai.com))**）。
+1. **选择网站**：访问推荐的网站（如 **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com))**）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 DeepSeek-R1 或 DeepSeek-V3 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
